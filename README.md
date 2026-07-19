@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashv0709/LeetCode/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
