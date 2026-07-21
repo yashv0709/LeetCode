@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashv0709/LeetCode/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/yashv0709/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/yashv0709/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1260-shift-2d-grid](https://github.com/yashv0709/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yashv0709/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/yashv0709/LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
