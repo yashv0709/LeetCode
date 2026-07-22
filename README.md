@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yashv0709/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/yashv0709/LeetCode/tree/master/0367-valid-perfect-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashv0709/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/yashv0709/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/yashv0709/LeetCode/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/yashv0709/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Enumeration
 |  |
 | ------- |
