@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yashv0709/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0445-add-two-numbers-ii](https://github.com/yashv0709/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/yashv0709/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/yashv0709/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/yashv0709/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0445-add-two-numbers-ii](https://github.com/yashv0709/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/yashv0709/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashv0709/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/yashv0709/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/yashv0709/LeetCode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
