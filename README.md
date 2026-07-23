@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/yashv0709/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/yashv0709/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/yashv0709/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1137-n-th-tribonacci-number](https://github.com/yashv0709/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashv0709/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
@@ -86,8 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/yashv0709/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/yashv0709/LeetCode/tree/master/0221-maximal-square) |
+| [1137-n-th-tribonacci-number](https://github.com/yashv0709/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Segment Tree
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashv0709/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/yashv0709/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
