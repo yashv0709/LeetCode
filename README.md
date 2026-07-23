@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yashv0709/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/yashv0709/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashv0709/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Linked List
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yashv0709/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/yashv0709/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/yashv0709/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/yashv0709/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashv0709/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
