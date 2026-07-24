@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/yashv0709/LeetCode/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/yashv0709/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yashv0709/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/yashv0709/LeetCode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/yashv0709/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/yashv0709/LeetCode/tree/master/0221-maximal-square) |
 | [1137-n-th-tribonacci-number](https://github.com/yashv0709/LeetCode/tree/master/1137-n-th-tribonacci-number) |
