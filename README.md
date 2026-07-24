@@ -106,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/yashv0709/LeetCode/tree/master/0445-add-two-numbers-ii) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/yashv0709/LeetCode/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/yashv0709/LeetCode/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/yashv0709/LeetCode/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/yashv0709/LeetCode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
