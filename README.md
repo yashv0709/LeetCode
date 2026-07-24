@@ -72,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashv0709/LeetCode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/yashv0709/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yashv0709/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/yashv0709/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yashv0709/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/yashv0709/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/yashv0709/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/yashv0709/LeetCode/tree/master/0404-sum-of-left-leaves) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashv0709/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
