@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/yashv0709/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/yashv0709/LeetCode/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/yashv0709/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
