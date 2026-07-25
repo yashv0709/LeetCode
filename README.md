@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashv0709/LeetCode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/yashv0709/LeetCode/tree/master/0039-combination-sum) |
 | [0152-maximum-product-subarray](https://github.com/yashv0709/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/yashv0709/LeetCode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/yashv0709/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashv0709/LeetCode/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/yashv0709/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
