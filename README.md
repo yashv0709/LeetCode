@@ -155,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/yashv0709/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [3310-remove-methods-from-project](https://github.com/yashv0709/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/yashv0709/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [3310-remove-methods-from-project](https://github.com/yashv0709/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yashv0709/LeetCode/tree/master/0486-predict-the-winner) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/yashv0709/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
