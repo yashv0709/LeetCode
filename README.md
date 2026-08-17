@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/yashv0709/LeetCode/tree/master/1184-distance-between-bus-stops) |
 | [1260-shift-2d-grid](https://github.com/yashv0709/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashv0709/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/yashv0709/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yashv0709/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashv0709/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/yashv0709/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/yashv0709/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/yashv0709/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yashv0709/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yashv0709/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yashv0709/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashv0709/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashv0709/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/yashv0709/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/yashv0709/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yashv0709/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yashv0709/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashv0709/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Segment Tree
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/yashv0709/LeetCode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/yashv0709/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yashv0709/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yashv0709/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yashv0709/LeetCode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
