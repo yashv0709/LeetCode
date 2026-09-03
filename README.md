@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/yashv0709/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashv0709/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1871-jump-game-vii](https://github.com/yashv0709/LeetCode/tree/master/1871-jump-game-vii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashv0709/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashv0709/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashv0709/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashv0709/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yashv0709/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/yashv0709/LeetCode/tree/master/1563-stone-game-v) |
+| [1871-jump-game-vii](https://github.com/yashv0709/LeetCode/tree/master/1871-jump-game-vii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashv0709/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Segment Tree
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/yashv0709/LeetCode/tree/master/1871-jump-game-vii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/yashv0709/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashv0709/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashv0709/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashv0709/LeetCode/tree/master/1140-stone-game-ii) |
+| [1871-jump-game-vii](https://github.com/yashv0709/LeetCode/tree/master/1871-jump-game-vii) |
 ## Zero-Sum Game
 |  |
 | ------- |
