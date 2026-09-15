@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yashv0709/LeetCode/tree/master/0039-combination-sum) |
 | [0152-maximum-product-subarray](https://github.com/yashv0709/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/yashv0709/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashv0709/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/yashv0709/LeetCode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/yashv0709/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashv0709/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/yashv0709/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashv0709/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashv0709/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashv0709/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Geometry
 |  |
@@ -309,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashv0709/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashv0709/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashv0709/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
