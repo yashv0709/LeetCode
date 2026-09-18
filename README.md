@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/yashv0709/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashv0709/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/yashv0709/LeetCode/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/yashv0709/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1140-stone-game-ii](https://github.com/yashv0709/LeetCode/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/yashv0709/LeetCode/tree/master/1184-distance-between-bus-stops) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yashv0709/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/yashv0709/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/yashv0709/LeetCode/tree/master/0704-binary-search) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashv0709/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
