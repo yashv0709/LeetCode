@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashv0709/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yashv0709/LeetCode/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/yashv0709/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yashv0709/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1140-stone-game-ii](https://github.com/yashv0709/LeetCode/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/yashv0709/LeetCode/tree/master/1184-distance-between-bus-stops) |
 | [1260-shift-2d-grid](https://github.com/yashv0709/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashv0709/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/yashv0709/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/yashv0709/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yashv0709/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashv0709/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashv0709/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yashv0709/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
